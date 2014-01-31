@@ -1,0 +1,1 @@
+- git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git'}
