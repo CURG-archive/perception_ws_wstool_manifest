@@ -1,2 +1,3 @@
 - git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git'}
 - git: {local-name: relationship_detector, uri: 'git@github.com:CURG/relationship_detector.git'}
+- git: {local-name: perception_msgs, uri: 'git@github.com:CURG/perception_msgs.git'}
