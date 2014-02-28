@@ -2,3 +2,7 @@
 - git: {local-name: relationship_detector, uri: 'git@github.com:CURG/relationship_detector.git'}
 - git: {local-name: perception_msgs, uri: 'git@github.com:CURG/perception_msgs.git'}
 - git: {local-name: scene_segmenter, uri: 'git@github.com:CURG/scene_segmenter.git'}
+- git: {local-name: relationship_visualizer, uri: 'git@github.com:CURG/relationship_visualizer.git'}
+- git: {local-name: openni_launch, uri: 'https://github.com/ros-drivers/openni_launch.git'}
+- git: {local-name: checkerboard_detection, uri: 'https://github.com/CURG/checkerboard_detection.git'}
+- git: {local-name: v4r_libraries, uri: 'https://github.com/CURG/v4r_libraries.git'}
