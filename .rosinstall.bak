@@ -6,3 +6,4 @@
 - git: {local-name: openni_launch, uri: 'https://github.com/ros-drivers/openni_launch.git'}
 - git: {local-name: checkerboard_detection, uri: 'https://github.com/CURG/checkerboard_detection.git'}
 - git: {local-name: v4r_libraries, uri: 'https://github.com/CURG/v4r_libraries.git'}
+- git: {local-name: pose_msgs, uri: 'https://github.com/CURG/pose_msgs.git'}
